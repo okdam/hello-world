@@ -1,3 +1,3 @@
 # hello-world
-My first repository on GitHub
-My first edit to my branch readme-edits 
+1. My first repository on GitHub
+2. My first edit to my branch readme-edits
